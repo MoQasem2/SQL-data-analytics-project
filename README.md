@@ -9,6 +9,7 @@ The analyses are performed on the curated Gold layer star schema, ensuring consi
 ---
 ## 🔹 Data Source
 The analyses in this project are based on the Gold layer of a self-designed data warehouse.
+
 🔗 **Data Warehouse Repository** 
 [View the Data Warehouse Project](https://github.com/MoQasem2/SQL-Data-Warehouse-Project.git)  
 
